@@ -17,42 +17,25 @@ Curso oferecido gratuitamente pela plataforma online <a href="https://dio.me/" r
 
 <ul class="contains-task-list">
   <li class="task-list-item">
-    <p dir="auto"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Fundamentos do Spring Boot</p>
+    <p dir="auto"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Node 10</p>
   </li>
   <li class="task-list-item">
-    <p dir="auto"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Noções de SQL</p>
+    <p dir="auto"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> NPM e NPX</p>
   </li>
 </ul>
 
 <h2 dir="auto"><a id="user-content---guia-" class="anchor" aria-hidden="true" href="#--guia-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="vertical_traffic_light" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a6.png">🚦</g-emoji> Guia </h2>
 
-<ol dir="auto">
-    <li> Apresentação do Projeto Base </li>
-    <li> Configuração do banco de dados (SGBD <em>PostgreSQL</em>)</li>
-    <li> Aplicando as <em>annotations</em></li>
-    <li> Execução do fluxo back-end: <em>Controller - Service - Repository</em></li>
-    <li> Validação - <em>Hibernate Validator</em> </li>
-    <li> Consultas Avançadas - <em>Derived Query - Native Query</em></li>
-</ol>
+
 
 <h2 dir="auto"><a id="user-content--tecnologias-utilizadas" class="anchor" aria-hidden="true" href="#-tecnologias-utilizadas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Tecnologias Utilizadas</h2>
 
 
-<ul dir="auto">
-    <li>IDE IntelliJ</li>
-    <li>Java 11</li>
-    <li>Maven</li>
-    <li><strong>Spring Web</strong></li>
-    <li><strong>Spring Data JPA</strong></li>
-    <li><strong>PostgreSQL Driver</strong></li>
-    <li><strong>Hibernate Validator</strong></li>
-    <li>Lombok</li>
-    <li>Postman</li>
-</ul>
 
 
 
-<h2 dir="auto"><a id="user-content--tecnologias-utilizadas" class="anchor" aria-hidden="true" href="#-tecnologias-utilizadas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content--tecnologias-utilizadas" href="#-tecnologias-utilizadas"></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Scripts Disponíveis</h2>
+
+<h2 dir="auto"><a id="user-content--links-úteis" class="anchor" aria-hidden="true" href="#-links-úteis"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content--links-úteis" href="#-links-úteis"></a><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji>Scripts Disponíveis</h2>
 
 
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este projeto foi inicializado com </font></font><a href="https://github.com/facebook/create-react-app"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Create React App</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p> 
@@ -150,8 +133,8 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 
 
-<p dir="auto"> Projeto desenvolvido utilizando a ajuda e os conhecimentos da Especialista: 
-<a href="https://github.com/cami-la" title="cami-la" rel="nofollow">cami-la <g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png">♥</g-emoji> </a></p>
+<p dir="auto"> Projeto desenvolvido utilizando a ajuda e os conhecimentos do Especialista: 
+<a href="https://github.com/Tautorn" rel="nofollow">Bruno </a></p>
 
 
 
